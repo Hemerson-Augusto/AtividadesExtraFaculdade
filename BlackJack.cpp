@@ -186,12 +186,12 @@ int main()// Função main para inicialização do código principal
 		case 2:
 		{
 			system("cls");
-			cout << "Professora: Cristina Onorio" << endl;
-			cout << "Aluno: Hemerson Augusto da Silva Nascimento" << endl;
-			cout << "Matéria: Algoritmo e Programação!" << endl;
-			cout << "Curso: Ciência da Computação" << endl;
+			cout << "Professo(a): " << endl;
+			cout << "Aluno: " << endl;
+			cout << "Matéria: " << endl;
+			cout << "Curso: Seu curso " << endl;
 			cout << "Trabalho sobre o jogo Black Jack" << endl;
-			cout << "Data de entrega 30/10/2023" << endl;
+			cout << "Data de entrega: Data " << endl;
 
 			system("pause");
 			system("cls");
