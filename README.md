@@ -1,5 +1,3 @@
-Certamente, incluí sua oferta de ajuda e disponibilidade para aprender e colaborar em seu repositório do GitHub. Aqui está o texto revisado:
-
 Bom dia, boa tarde ou boa noite, dependendo do horário em que você está acessando esta página no GitHub.
 
 Permita-me fazer uma breve apresentação: meu nome é Hemerson. Atualmente, sou um estudante de Ciência da Computação. Considerando que este arquivo permanecerá disponível por um longo período, é possível que, na presente data, eu já tenha concluído meu curso e esteja na casa dos 24 anos de idade.
